@@ -35,4 +35,5 @@ Missing values are present in some columns:
 ## Conclusion
 This initial exploration provides a foundation for understanding the sales order data. Further analysis with data cleaning, transformation, and potentially dropping unnecessary columns can yield valuable insights to improve sales strategies, product offerings, and customer targeting.
 HNG Internship
-Learn more about the HNG Internship program: https://hng.tech/.
+Learn more about the HNG Internship program: [https://hng.techpremium](https://hng.tech/premium)
+/.
